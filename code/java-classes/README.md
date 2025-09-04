@@ -15,4 +15,4 @@ This tutorial walks through the basics of **Java classes and objects** by buildi
 
 ### 💻 Tutorial
 
-▶️ [![Watch this tutorial on Loom](./thumbnail/thumbnail.png)](https://www.loom.com/share/9eecdb3f78544c7fb8178b3ac25d0ce2?sid=a8f8cace-d60c-42c4-9c64-235893455f4b)
+[![Watch this tutorial on Loom](./thumbnail/thumbnail.png)](https://www.loom.com/share/9eecdb3f78544c7fb8178b3ac25d0ce2?sid=a8f8cace-d60c-42c4-9c64-235893455f4b)
