@@ -7,6 +7,7 @@ A collection of short technical demos I’ve created to explain programming conc
 ### 📂 Code
 
 -   [**Java Classes**](https://github.com/smmhassan14/tech-demos/tree/main/code/java-classes)
+-   [**How to Run Your First React App**](https://github.com/smmhassan14/tech-demos/blob/main/code/react-setup/README.md)
     
 
 ###  📂 General
